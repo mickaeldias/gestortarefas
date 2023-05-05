@@ -30,7 +30,7 @@ O aplicativo foi desenvolvido usando as seguintes tecnologias:
 
 ## Contribuições
 
-Contribuições são bem-vindas! Se você encontrar algum problema ou tiver alguma sugestão para melhorar o programa, por favor, crie uma issue ou pull request. 
+Contribuições são bem-vindas! Se você encontrar algum problema ou tiver alguma sugestão para melhorar a aplicação, por favor, crie uma issue ou pull request. 
 
 
 ## Aplicação
