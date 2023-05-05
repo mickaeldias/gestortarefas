@@ -7,10 +7,10 @@ Este é um aplicativo de gestão de tarefas que permite criar, visualizar, exclu
 1. Clone este repositório em sua máquina local.
 2. Certifique-se de ter o Python instalado em sua máquina.
 3. Acesse a pasta do projeto.
-4. Crie um ambiente virtual e instale as dependências:
-5. * pip install -r requirements.txt
+4. Crie um ambiente virtual e instale as dependências
+5. pip install -r requirements.txt
 6. Execute o seguinte comando para executar a aplicação:
-7. * python app.py
+7. python app.py
 8. O aplicativo estará disponível em http://localhost:8000/.
 
 ## Funcionalidades
@@ -34,5 +34,6 @@ Contribuições são bem-vindas! Se você encontrar algum problema ou tiver algu
 
 
 ## Aplicação
+![Captura de Ecrã (96)](https://user-images.githubusercontent.com/72349836/236527185-8f4bb886-61d9-469b-aef1-eb18f812719c.png)
 
 
